@@ -19,7 +19,6 @@ A modern animated UI built entirely with Streamlit
 🚀 Setup Instructions
 Follow these steps to run the project locally:
 
-bash
 # 1️⃣ Create a conda environment with Python 3.11
 conda create -p venv python=3.11
 
@@ -47,11 +46,17 @@ The web dashboard will open in your browser automatically.
 🗂️ Project Structure
 .
 ├── app.py                  # Main Streamlit web app
+
 ├── flow.py                 # Prefect pipeline
+
 ├── requirements.txt        # Python dependencies
+
 ├── output/                 # Generated predictions (.parquet)
+
 ├── users.db                # SQLite database for auth & chat
+
 ├── README.md               # Project overview & instructions
+
 └── (other helper modules)
 📌 Notes
 Make sure you have your GROQ_API_KEY set in a .env file:
