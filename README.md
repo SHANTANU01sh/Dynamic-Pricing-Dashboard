@@ -103,15 +103,15 @@ Make sure you have your GROQ_API_KEY set in a .env file:
 
 GROQ_API_KEY=your_groq_api_key_here
 
-This project uses:
+🛠️ This project uses
 
-Streamlit for UI
+🎨 Streamlit — for the interactive UI and modern dashboards
 
-Prefect for workflow orchestration
+⚙️ Prefect — for workflow orchestration & data pipeline automation
 
-MLflow for model tracking
+📊 MLflow — for experiment tracking & model management
 
-LangChain + Groq for the chatbot
+🤖 LangChain + Groq — for the AI-powered chatbot assistant
 
 All code is fully commented and modular for easy understanding.
 
