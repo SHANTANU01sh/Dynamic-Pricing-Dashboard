@@ -58,15 +58,23 @@ The web dashboard will open in your browser automatically.
 ├── README.md               # Project overview & instructions
 
 └── (other helper modules)
+
 📌 Notes
+
 Make sure you have your GROQ_API_KEY set in a .env file:
+
 GROQ_API_KEY=your_groq_api_key_here
 
 This project uses:
+
 Streamlit for UI
+
 Prefect for workflow orchestration
+
 MLflow for model tracking
+
 LangChain + Groq for the chatbot
+
 All code is fully commented and modular for easy understanding.
 
 🤖 AI-Assisted Tools
