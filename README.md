@@ -27,10 +27,15 @@ conda activate ./venv
 
 # 3️⃣ Install all Python dependencies
 pip install -r requirements.txt
+
 ⚙️ How to Run the Pipeline
+
 Run the Prefect flow:
+
 bash
+
 python flow.py
+
 This executes your ETL pipeline, generates predictions, and outputs results.
 
 Start the MLflow UI (optional):
