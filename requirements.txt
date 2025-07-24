@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+prefect
+mlflow
+pyarrow
+streamlit
+openpyxl
+Flask
+Flask-Login
+Flask-SQLAlchemy
